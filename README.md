@@ -1,6 +1,6 @@
 # Lab 4 - Quality Tools and Git
 
-This repository is used to learn Git and software quality tools.
+This repository is used to learn Git, version control, and software quality tools through practical exercises.
 
 ## Objectives
 - Learn how to use Git branches.

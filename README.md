@@ -1,6 +1,6 @@
 # Lab 4 - Quality Tools and Git
 
-This repository is used for the Systems Engineering Lab 4.
+This repository is used to learn Git and software quality tools.
 
 ## Objectives
 - Learn how to use Git branches.
